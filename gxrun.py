@@ -17,12 +17,12 @@ PROXY = ''
 # INVITE_CODE = os.getenv('INVITE_CODE') or input('请输入邀请码: ')
 PUSHPLUS_TOKEN = ''
 #这个填自己的邀请码，不要搞我，我乱填的
-INVITE_CODE = '26712463'
+INVITE_CODE = '73492733'
 PUSH_MSG = ''
 
 async def get_mail():
     #通过postman去调用接口获取邮箱，直接修改这个邮箱地址
-    mail='zffumvu37x080fug@vafyxh.com'
+    mail='2u23sg1i929b5olt@wywnxa.com'
     return mail
     
     # json_data = {
